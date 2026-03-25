@@ -1,0 +1,359 @@
+{
+  "bar_brawl": {
+    "sounds":[
+      {
+        "name": "musicmod:bar_brawl",
+        "stream": true
+      }
+    ]
+  },
+  "tense": {
+    "sounds":[
+      {
+        "name": "musicmod:tense",
+        "stream": true
+      }
+    ]
+  },
+  "adventure": {
+    "sounds":[
+      {
+        "name": "musicmod:adventure",
+        "stream": true
+      }
+    ]
+  },
+  "for_tomorrow": {
+    "sounds":[
+      {
+        "name": "musicmod:for_tomorrow",
+        "stream": true
+      }
+    ]
+  },
+  "timeless": {
+    "sounds":[
+      {
+        "name": "musicmod:timeless",
+        "stream": true
+      }
+    ]
+  },
+  "towards_the_horizon": {
+    "sounds":[
+      {
+        "name": "musicmod:towards_the_horizon",
+        "stream": true
+      }
+    ]
+  },
+  "traveling_symphony": {
+    "sounds":[
+      {
+        "name": "musicmod:traveling_symphony",
+        "stream": true
+      }
+    ]
+  },
+  "choir": {
+    "sounds":[
+      {
+        "name": "musicmod:choir",
+        "stream": true
+      }
+    ]
+  },
+  "dark": {
+    "sounds":[
+      {
+        "name": "musicmod:dark",
+        "stream": true
+      }
+    ]
+  },
+  "emotional": {
+    "sounds":[
+      {
+        "name": "musicmod:emotional",
+        "stream": true
+      }
+    ]
+  },
+  "guardian_of_the_sword": {
+    "sounds":[
+      {
+        "name": "musicmod:guardian_of_the_sword",
+        "stream": true
+      }
+    ]
+  },
+  "rising": {
+    "sounds":[
+      {
+        "name": "musicmod:rising",
+        "stream": true
+      }
+    ]
+  },
+  "the_lower_depths": {
+    "sounds":[
+      {
+        "name": "musicmod:the_lower_depths",
+        "stream": true
+      }
+    ]
+  },
+  "dragon_castle": {
+    "sounds":[
+      {
+        "name": "musicmod:dragon_castle",
+        "stream": true
+      }
+    ]
+  },
+  "florest_dance": {
+    "sounds":[
+      {
+        "name": "musicmod:florest_dance",
+        "stream": true
+      }
+    ]
+  },
+  "obscurity": {
+    "sounds":[
+      {
+        "name": "musicmod:obscurity",
+        "stream": true
+      }
+    ]
+  },
+  "the_last_stand": {
+    "sounds":[
+      {
+        "name": "musicmod:the_last_stand",
+        "stream": true
+      }
+    ]
+  },
+  "through_fire_and_water": {
+    "sounds":[
+      {
+        "name": "musicmod:through_fire_and_water",
+        "stream": true
+      }
+    ]
+  },
+  "treacherous_waters": {
+    "sounds":[
+      {
+        "name": "musicmod:treacherous_waters",
+        "stream": true
+      }
+    ]
+  },
+  "where_is_your_god_now": {
+    "sounds":[
+      {
+        "name": "musicmod:where_is_your_god_now",
+        "stream": true
+      }
+    ]
+  },
+  "divebomb": {
+    "sounds":[
+      {
+        "name": "musicmod:divebomb",
+        "stream": true
+      }
+    ]
+  },
+  "flight_hymn": {
+    "sounds":[
+      {
+        "name": "musicmod:flight_hymn",
+        "stream": true
+      }
+    ]
+  },
+  "planinski_briz": {
+    "sounds":[
+      {
+        "name": "musicmod:planinski_briz",
+        "stream": true
+      }
+    ]
+  },
+  "strategy": {
+    "sounds":[
+      {
+        "name": "musicmod:strategy",
+        "stream": true
+      }
+    ]
+  },
+  "the_battle_within": {
+    "sounds":[
+      {
+        "name": "musicmod:the_battle_within",
+        "stream": true
+      }
+    ]
+  },
+  "touch": {
+    "sounds":[
+      {
+        "name": "musicmod:touch",
+        "stream": true
+      }
+    ]
+  },
+  "enchanted": {
+    "sounds":[
+      {
+        "name": "musicmod:enchanted",
+        "stream": true
+      }
+    ]
+  },
+  "rap_itachi": {
+    "sounds":[
+      {
+        "name": "musicmod:rap_itachi",
+        "stream": true
+      }
+    ]
+  },
+  "arachnophobia": {
+    "sounds":[
+      {
+        "name": "musicmod:arachnophobia",
+        "stream": true
+      }
+    ]
+},
+  "something": {
+    "sounds":[
+      {
+        "name": "musicmod:something",
+        "stream": true
+      }
+    ]
+  },
+  "it_means_everything": {
+    "sounds":[
+      {
+        "name": "musicmod:it_means_everything",
+        "stream": true
+      }
+    ]
+  },
+  "acrophobia": {
+    "sounds":[
+      {
+        "name": "musicmod:acrophobia",
+        "stream": true
+      }
+    ]
+  },
+  "omori_alter": {
+    "sounds":[
+      {
+        "name": "musicmod:omori_alter",
+        "stream": true
+      }
+    ]
+  },
+  "final_duet": {
+    "sounds":[
+      {
+        "name": "musicmod:final_duet",
+        "stream": true
+      }
+    ]
+  },
+  "sand_dream": {
+    "sounds":[
+      {
+        "name": "musicmod:sand_dream",
+        "stream": true
+      }
+    ]
+  },"dead_king": {
+  "sounds":[
+    {
+      "name": "musicmod:dead_king",
+      "stream": true
+    }
+  ]
+},"belly_full": {
+  "sounds":[
+    {
+      "name": "musicmod:belly_full",
+      "stream": true
+    }
+  ]
+},"victory_celebrations": {
+  "sounds":[
+    {
+      "name": "musicmod:victory_celebrations",
+      "stream": true
+    }
+  ]
+},"the_bard_down": {
+  "sounds":[
+    {
+      "name": "musicmod:the_bard_down",
+      "stream": true
+    }
+  ]
+},"salt_in_the_air": {
+  "sounds":[
+    {
+      "name": "musicmod:salt_in_the_air",
+      "stream": true
+    }
+  ]
+},"memories_of_the_queen": {
+  "sounds":[
+    {
+      "name": "musicmod:memories_of_the_queen",
+      "stream": true
+    }
+  ]
+},"magical_fantasy": {
+  "sounds":[
+    {
+      "name": "musicmod:magical_fantasy",
+      "stream": true
+    }
+  ]
+},"dancing_girls": {
+  "sounds":[
+    {
+      "name": "musicmod:dancing_girls",
+      "stream": true
+    }
+  ]
+},"sad_violin": {
+  "sounds":[
+    {
+      "name": "musicmod:sad_violin",
+      "stream": true
+    }
+  ]
+},"soft_violin": {
+  "sounds":[
+    {
+      "name": "musicmod:soft_violin",
+      "stream": true
+    }
+  ]
+},"tavern_funeral": {
+  "sounds":[
+    {
+      "name": "musicmod:tavern_funeral",
+      "stream": true
+    }
+  ]
+}
+}

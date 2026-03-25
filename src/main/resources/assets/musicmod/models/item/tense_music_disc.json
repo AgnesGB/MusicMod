@@ -1,0 +1,7 @@
+
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "musicmod:item/tense_music_disc"
+  }
+}
