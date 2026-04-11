@@ -30,8 +30,12 @@ public class ModSounds {
     public static RegistryObject<SoundEvent> GUARDIAN_OF_THE_SWORD = registerSoundEvents("guardian_of_the_sword");
     public static RegistryObject<SoundEvent> RISING = registerSoundEvents("rising");
     public static RegistryObject<SoundEvent> THE_LOWER_DEPTHS = registerSoundEvents("the_lower_depths");
+    public static RegistryObject<SoundEvent> TENSO_DUNGEONS_AND_DRAGONS = registerSoundEvents("tenso_dungeons_and_dragons");
+    public static RegistryObject<SoundEvent> TENSO_HUNTER_HUNTER = registerSoundEvents("tenso_hunter_hunter");
+    public static RegistryObject<SoundEvent> TENSO_PARISTON = registerSoundEvents("tenso_pariston");
+    public static RegistryObject<SoundEvent> TENSO_PERSONA5 = registerSoundEvents("tenso_persona5");
 
-    //batalhas
+    //BATTLE
     public static RegistryObject<SoundEvent> DRAGON_CASTLE = registerSoundEvents("dragon_castle");
     public static RegistryObject<SoundEvent> FLOREST_DANCE = registerSoundEvents("florest_dance");
     public static RegistryObject<SoundEvent> OBSCURITY = registerSoundEvents("obscurity");
@@ -46,6 +50,13 @@ public class ModSounds {
     public static RegistryObject<SoundEvent> THE_BATTLE_WITHIN = registerSoundEvents("the_battle_within");
     public static RegistryObject<SoundEvent> TOUCH = registerSoundEvents("touch");
     public static RegistryObject<SoundEvent> DEAD_KING = registerSoundEvents("dead_king");
+    public static RegistryObject<SoundEvent> TENSE_BATTLE_ELEGY_THE_END_LAPPY = registerSoundEvents("tense_battle_elegy_the_end_lappy");
+    public static RegistryObject<SoundEvent> TENSE_BATTLE_ESCAFLOWNE = registerSoundEvents("tense_battle_escaflowne");
+    public static RegistryObject<SoundEvent> TENSE_BATTLE_MY_BROTHER = registerSoundEvents("tense_battle_my_brother");
+    public static RegistryObject<SoundEvent> TENSE_BATTLE_KATAKURI = registerSoundEvents("tense_battle_katakuri");
+    public static RegistryObject<SoundEvent> EPIC_BATTLE_STEEL_FOR_HUMANS = registerSoundEvents("epic_battle_steel_for_humans");
+    public static RegistryObject<SoundEvent> EPIC_BATTLE_RENGOKU = registerSoundEvents("epic_battle_rengoku");
+    public static RegistryObject<SoundEvent> EPIC_BATTLE_YOU_SAY_RUN = registerSoundEvents("epic_battle_you_say_run");
 
     //OMORI
     public static RegistryObject<SoundEvent> ARACHNOPHOBIA = registerSoundEvents("arachnophobia");
@@ -64,13 +75,24 @@ public class ModSounds {
     public static RegistryObject<SoundEvent> MEMORIES_OF_THE_QUEEN = registerSoundEvents("memories_of_the_queen");
     public static RegistryObject<SoundEvent> MAGICAL_FANTASY = registerSoundEvents("magical_fantasy");
     public static RegistryObject<SoundEvent> DANCING_GIRLS = registerSoundEvents("dancing_girls");
+    public static RegistryObject<SoundEvent> FELIZ_FRIEREN = registerSoundEvents("feliz_frieren");
+    public static RegistryObject<SoundEvent> FELIZ_GERUDO_VALLEY = registerSoundEvents("feliz_gerudo_valley");
+    public static RegistryObject<SoundEvent> FELIZ_KIKI_DELIVERY = registerSoundEvents("feliz_kiki_delivery");
+    public static RegistryObject<SoundEvent> FELIZ_POKEMON = registerSoundEvents("feliz_pokemon");
 
     //SAD
     public static RegistryObject<SoundEvent> SAD_VIOLIN = registerSoundEvents("sad_violin");
     public static RegistryObject<SoundEvent> SOFT_VIOLIN = registerSoundEvents("soft_violin");
     public static RegistryObject<SoundEvent> TAVERN_FUNERAL = registerSoundEvents("tavern_funeral");
-
-
+    public static RegistryObject<SoundEvent> TRISTE_CLAIR_OBSCURE = registerSoundEvents("triste_clair_obscure");
+    public static RegistryObject<SoundEvent> TRISTE_FULLMETAL = registerSoundEvents("triste_fullmetal");
+    public static RegistryObject<SoundEvent> TRISTE_MEMORIAS = registerSoundEvents("triste_memorias");
+    public static RegistryObject<SoundEvent> TRISTE_SAD_BROTHER_CDZ = registerSoundEvents("triste_sad_brother_cdz");
+    
+    //EPIC
+    public static RegistryObject<SoundEvent> EPICO_BOKU_NO_HERO = registerSoundEvents("epico_boku_no_hero");
+    public static RegistryObject<SoundEvent> EPICO_FAIRY_TAIL = registerSoundEvents("epico_fairy_tail");
+    public static RegistryObject<SoundEvent> EPICO_HEART_OF_COURAGE = registerSoundEvents("epico_heart_of_courage");
 
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {

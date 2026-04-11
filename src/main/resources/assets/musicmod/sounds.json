@@ -79,10 +79,10 @@
       }
     ]
   },
-  "guardian_of_the_sword": {
+  "guardians_of_the_sword": {
     "sounds":[
       {
-        "name": "musicmod:guardian_of_the_sword",
+        "name": "musicmod:guardians_of_the_sword",
         "stream": true
       }
     ]
@@ -292,10 +292,10 @@
       "stream": true
     }
   ]
-},"victory_celebrations": {
+},"victory_celebration": {
   "sounds":[
     {
-      "name": "musicmod:victory_celebrations",
+      "name": "musicmod:victory_celebration",
       "stream": true
     }
   ]
@@ -352,6 +352,160 @@
   "sounds":[
     {
       "name": "musicmod:tavern_funeral",
+      "stream": true
+    }
+  ]
+},"triste_clair_obscure": {
+  "sounds":[
+    {
+      "name": "musicmod:triste_clair_obscure",
+      "stream": true
+    }
+  ]
+},"triste_fullmetal": {
+  "sounds":[
+    {
+      "name": "musicmod:triste_fullmetal",
+      "stream": true
+    }
+  ]
+},"triste_memorias": {
+  "sounds":[
+    {
+      "name": "musicmod:triste_memorias",
+      "stream": true
+    }
+  ]
+},"triste_sad_brother_cdz": {
+  "sounds":[
+    {
+      "name": "musicmod:triste_sad_brother_cdz",
+      "stream": true
+    }
+  ]
+},"feliz_frieren": {
+  "sounds":[
+    {
+      "name": "musicmod:feliz_frieren",
+      "stream": true
+    }
+  ]
+},"feliz_gerudo_valley": {
+  "sounds":[
+    {
+      "name": "musicmod:feliz_gerudo_valley",
+      "stream": true
+    }
+  ]
+},"feliz_kiki_delivery": {
+  "sounds":[
+    {
+      "name": "musicmod:feliz_kiki_delivery",
+      "stream": true
+    }
+  ]
+},"feliz_pokemon": {
+  "sounds":[
+    {
+      "name": "musicmod:feliz_pokemon",
+      "stream": true
+    }
+  ]
+},"epico_boku_no_hero": {
+  "sounds":[
+    {
+      "name": "musicmod:epico_boku_no_hero",
+      "stream": true
+    }
+  ]
+},"epico_fairy_tail": {
+  "sounds":[
+    {
+      "name": "musicmod:epico_fairy_tail",
+      "stream": true
+    }
+  ]
+},"epico_heart_of_courage": {
+  "sounds":[
+    {
+      "name": "musicmod:epico_heart_of_courage",
+      "stream": true
+    }
+  ]
+},"tenso_dungeons_and_dragons": {
+  "sounds":[
+    {
+      "name": "musicmod:tenso_dungeons_and_dragons",
+      "stream": true
+    }
+  ]
+},"tenso_hunter_hunter": {
+  "sounds":[
+    {
+      "name": "musicmod:tenso_hunter_hunter",
+      "stream": true
+    }
+  ]
+},"tenso_pariston": {
+  "sounds":[
+    {
+      "name": "musicmod:tenso_pariston",
+      "stream": true
+    }
+  ]
+},"tenso_persona5": {
+  "sounds":[
+    {
+      "name": "musicmod:tenso_persona5",
+      "stream": true
+    }
+  ]
+},"tense_battle_elegy_the_end_lappy": {
+  "sounds":[
+    {
+      "name": "musicmod:tense_battle_elegy_the_end_lappy",
+      "stream": true
+    }
+  ]
+},"tense_battle_escaflowne": {
+  "sounds":[
+    {
+      "name": "musicmod:tense_battle_escaflowne",
+      "stream": true
+    }
+  ]
+},"tense_battle_my_brother": {
+  "sounds":[
+    {
+      "name": "musicmod:tense_battle_my_brother",
+      "stream": true
+    }
+  ]
+},"tense_battle_katakuri": {
+  "sounds":[
+    {
+      "name": "musicmod:tense_battle_katakuri",
+      "stream": true
+    }
+  ]
+},"epic_battle_steel_for_humans": {
+  "sounds":[
+    {
+      "name": "musicmod:epic_battle_steel_for_humans",
+      "stream": true
+    }
+  ]
+},"epic_battle_rengoku": {
+  "sounds":[
+    {
+      "name": "musicmod:epic_battle_rengoku",
+      "stream": true
+    }
+  ]
+},"epic_battle_you_say_run": {
+  "sounds":[
+    {
+      "name": "musicmod:epic_battle_you_say_run",
       "stream": true
     }
   ]
