@@ -1,8 +1,8 @@
 {
-  "bar_brawl": {
+  "calma_rhus_song": {
     "sounds":[
       {
-        "name": "musicmod:bar_brawl",
+        "name": "musicmod:calma_rhus_song",
         "stream": true
       }
     ]
@@ -15,10 +15,10 @@
       }
     ]
   },
-  "adventure": {
+  "calma_adventure": {
     "sounds":[
       {
-        "name": "musicmod:adventure",
+        "name": "musicmod:calma_adventure",
         "stream": true
       }
     ]
@@ -55,26 +55,26 @@
       }
     ]
   },
-  "choir": {
+  "tense_battle_choir": {
     "sounds":[
       {
-        "name": "musicmod:choir",
+        "name": "musicmod:tense_battle_choir",
         "stream": true
       }
     ]
   },
-  "dark": {
+  "tenso_dark": {
     "sounds":[
       {
-        "name": "musicmod:dark",
+        "name": "musicmod:tenso_dark",
         "stream": true
       }
     ]
   },
-  "emotional": {
+  "epic_emotional": {
     "sounds":[
       {
-        "name": "musicmod:emotional",
+        "name": "musicmod:epic_emotional",
         "stream": true
       }
     ]
@@ -103,18 +103,18 @@
       }
     ]
   },
-  "dragon_castle": {
+  "battle_dragon_castle": {
     "sounds":[
       {
-        "name": "musicmod:dragon_castle",
+        "name": "musicmod:battle_dragon_castle",
         "stream": true
       }
     ]
   },
-  "florest_dance": {
+  "tense_battle_florest_dance": {
     "sounds":[
       {
-        "name": "musicmod:florest_dance",
+        "name": "musicmod:tense_battle_florest_dance",
         "stream": true
       }
     ]
@@ -159,18 +159,18 @@
       }
     ]
   },
-  "divebomb": {
+  "battle_divebomb": {
     "sounds":[
       {
-        "name": "musicmod:divebomb",
+        "name": "musicmod:battle_divebomb",
         "stream": true
       }
     ]
   },
-  "flight_hymn": {
+  "tenso_caronte_song": {
     "sounds":[
       {
-        "name": "musicmod:flight_hymn",
+        "name": "musicmod:tenso_caronte_song",
         "stream": true
       }
     ]
@@ -207,10 +207,10 @@
       }
     ]
   },
-  "enchanted": {
+  "calma_enchanted": {
     "sounds":[
       {
-        "name": "musicmod:enchanted",
+        "name": "musicmod:calma_enchanted",
         "stream": true
       }
     ]
@@ -223,10 +223,10 @@
       }
     ]
   },
-  "arachnophobia": {
+  "tenso_arachnophobia": {
     "sounds":[
       {
-        "name": "musicmod:arachnophobia",
+        "name": "musicmod:tenso_arachnophobia",
         "stream": true
       }
     ]
@@ -247,10 +247,10 @@
       }
     ]
   },
-  "acrophobia": {
+  "tenso_acrophobia": {
     "sounds":[
       {
-        "name": "musicmod:acrophobia",
+        "name": "musicmod:tenso_acrophobia",
         "stream": true
       }
     ]
@@ -263,10 +263,10 @@
       }
     ]
   },
-  "final_duet": {
+  "calma_final_duet": {
     "sounds":[
       {
-        "name": "musicmod:final_duet",
+        "name": "musicmod:calma_final_duet",
         "stream": true
       }
     ]
@@ -278,17 +278,10 @@
         "stream": true
       }
     ]
-  },"dead_king": {
+  },"feliz_belly_full": {
   "sounds":[
     {
-      "name": "musicmod:dead_king",
-      "stream": true
-    }
-  ]
-},"belly_full": {
-  "sounds":[
-    {
-      "name": "musicmod:belly_full",
+      "name": "musicmod:feliz_belly_full",
       "stream": true
     }
   ]
@@ -327,10 +320,10 @@
       "stream": true
     }
   ]
-},"dancing_girls": {
+},"feliz_dancing_girls": {
   "sounds":[
     {
-      "name": "musicmod:dancing_girls",
+      "name": "musicmod:feliz_dancing_girls",
       "stream": true
     }
   ]
@@ -411,24 +404,24 @@
       "stream": true
     }
   ]
-},"epico_boku_no_hero": {
+},"epic_boku_no_hero": {
   "sounds":[
     {
-      "name": "musicmod:epico_boku_no_hero",
+      "name": "musicmod:epic_boku_no_hero",
       "stream": true
     }
   ]
-},"epico_fairy_tail": {
+},"epic_fairy_tail": {
   "sounds":[
     {
-      "name": "musicmod:epico_fairy_tail",
+      "name": "musicmod:epic_fairy_tail",
       "stream": true
     }
   ]
-},"epico_heart_of_courage": {
+},"epic_heart_of_courage": {
   "sounds":[
     {
-      "name": "musicmod:epico_heart_of_courage",
+      "name": "musicmod:epic_heart_of_courage",
       "stream": true
     }
   ]
@@ -488,24 +481,94 @@
       "stream": true
     }
   ]
-},"epic_battle_steel_for_humans": {
+},"battle_steel_for_humans": {
   "sounds":[
     {
-      "name": "musicmod:epic_battle_steel_for_humans",
+      "name": "musicmod:battle_steel_for_humans",
       "stream": true
     }
   ]
-},"epic_battle_rengoku": {
+},"battle_rengoku": {
   "sounds":[
     {
-      "name": "musicmod:epic_battle_rengoku",
+      "name": "musicmod:battle_rengoku",
       "stream": true
     }
   ]
-},"epic_battle_you_say_run": {
+},"battle_you_say_run": {
   "sounds":[
     {
-      "name": "musicmod:epic_battle_you_say_run",
+      "name": "musicmod:battle_you_say_run",
+      "stream": true
+    }
+  ]
+},"triste_bleach": {
+  "sounds":[
+    {
+      "name": "musicmod:triste_bleach",
+      "stream": true
+    }
+  ]
+},"triste_hyoga": {
+  "sounds":[
+    {
+      "name": "musicmod:triste_hyoga",
+      "stream": true
+    }
+  ]
+},"triste_rias_gremory": {
+  "sounds":[
+    {
+      "name": "musicmod:triste_rias_gremory",
+      "stream": true
+    }
+  ]
+},"epic_hxh_legend_martialartist": {
+  "sounds":[
+    {
+      "name": "musicmod:epic_hxh_legend_martialartist",
+      "stream": true
+    }
+  ]
+},"epic_piratas_do_caribe": {
+  "sounds":[
+    {
+      "name": "musicmod:epic_piratas_do_caribe",
+      "stream": true
+    }
+  ]
+},"feliz_castelo_animado": {
+  "sounds":[
+    {
+      "name": "musicmod:feliz_castelo_animado",
+      "stream": true
+    }
+  ]
+},"feliz_clair_obscure": {
+  "sounds":[
+    {
+      "name": "musicmod:feliz_clair_obscure",
+      "stream": true
+    }
+  ]
+},"feliz_hxh_adventure": {
+  "sounds":[
+    {
+      "name": "musicmod:feliz_hxh_adventure",
+      "stream": true
+    }
+  ]
+},"tense_battle_bleach_invasion": {
+  "sounds":[
+    {
+      "name": "musicmod:tense_battle_bleach_invasion",
+      "stream": true
+    }
+  ]
+},"tense_battle_bleach_rebellion": {
+  "sounds":[
+    {
+      "name": "musicmod:tense_battle_bleach_rebellion",
       "stream": true
     }
   ]
