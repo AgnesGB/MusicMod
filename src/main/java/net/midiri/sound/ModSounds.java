@@ -34,6 +34,8 @@ public class ModSounds {
     public static RegistryObject<SoundEvent> TENSO_HUNTER_HUNTER = registerSoundEvents("tenso_hunter_hunter");
     public static RegistryObject<SoundEvent> TENSO_PARISTON = registerSoundEvents("tenso_pariston");
     public static RegistryObject<SoundEvent> TENSO_PERSONA5 = registerSoundEvents("tenso_persona5");
+    public static RegistryObject<SoundEvent> TENSO_MELODIA = registerSoundEvents("tenso_melodia");
+    public static RegistryObject<SoundEvent> TENSO_SACRILEGIO = registerSoundEvents("tenso_sacrilegio");
 
     //BATTLE
     public static RegistryObject<SoundEvent> BATTLE_DRAGON_CASTLE = registerSoundEvents("battle_dragon_castle");
@@ -58,6 +60,8 @@ public class ModSounds {
     public static RegistryObject<SoundEvent> BATTLE_STEEL_FOR_HUMANS = registerSoundEvents("battle_steel_for_humans");
     public static RegistryObject<SoundEvent> BATTLE_RENGOKU = registerSoundEvents("battle_rengoku");
     public static RegistryObject<SoundEvent> BATTLE_YOU_SAY_RUN = registerSoundEvents("battle_you_say_run");
+    public static RegistryObject<SoundEvent> TENSE_BATTLE_THIS_IS_DOOMSDAY = registerSoundEvents("tense_battle_this_is_doomsday");
+    public static RegistryObject<SoundEvent> TENSE_BATTLE_VAMPIROS = registerSoundEvents("tense_battle_vampiros");
 
     //OMORI
     public static RegistryObject<SoundEvent> TENSO_ARACHNOPHOBIA = registerSoundEvents("tenso_arachnophobia");

@@ -572,5 +572,33 @@
       "stream": true
     }
   ]
+},"tense_battle_this_is_doomsday": {
+  "sounds":[
+    {
+      "name": "musicmod:tense_battle_this_is_doomsday",
+      "stream": true
+    }
+  ]
+},"tense_battle_vampiros": {
+  "sounds":[
+    {
+      "name": "musicmod:tense_battle_vampiros",
+      "stream": true
+    }
+  ]
+},"tenso_melodia": {
+  "sounds":[
+    {
+      "name": "musicmod:tenso_melodia",
+      "stream": true
+    }
+  ]
+},"tenso_sacrilegio": {
+  "sounds":[
+    {
+      "name": "musicmod:tenso_sacrilegio",
+      "stream": true
+    }
+  ]
 }
 }
